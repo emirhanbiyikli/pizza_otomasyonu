@@ -1,0 +1,32 @@
+C:\Users\Lenovo\source\repos\202503056\202503056\bin\Debug\202503056.exe.config
+C:\Users\Lenovo\source\repos\202503056\202503056\bin\Debug\202503056.exe
+C:\Users\Lenovo\source\repos\202503056\202503056\bin\Debug\202503056.pdb
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\202503056.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\202503056.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\_202503056.Form1.resources
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\_202503056.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\202503056.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\202503056.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\202503056.exe
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\202503056.pdb
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\_202503056.Form2.resources
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\_202503056.Form3.resources
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\_202503056.Form3cs.resources
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\_202503056.Form4.resources
+C:\Users\Lenovo\source\repos\202503056\202503056\obj\Debug\_202503056.Form5.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\bin\Debug\202503056.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\bin\Debug\202503056.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\bin\Debug\202503056.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\202503056.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\202503056.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\_202503056.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\_202503056.Form2.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\_202503056.Form3.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\_202503056.Form3cs.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\_202503056.Form4.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\_202503056.Form5.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\_202503056.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\202503056.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\202503056.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\202503056.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\202503056.pdb
