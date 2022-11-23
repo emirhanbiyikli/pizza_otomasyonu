@@ -30,3 +30,12 @@ C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_em
 C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\202503056.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\202503056.exe
 C:\Users\Lenovo\OneDrive\Masaüstü\202503056_emirhanbıyıklı (2)\202503056_emirhanbıyıklı\202503056\obj\Debug\202503056.pdb
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\pizza_otomasyonu\202503056\obj\Debug\202503056.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\pizza_otomasyonu\202503056\obj\Debug\202503056.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\pizza_otomasyonu\202503056\obj\Debug\_202503056.Form1.resources
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\pizza_otomasyonu\202503056\obj\Debug\_202503056.Form2.resources
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\pizza_otomasyonu\202503056\obj\Debug\_202503056.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\pizza_otomasyonu\202503056\obj\Debug\202503056.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\pizza_otomasyonu\202503056\obj\Debug\202503056.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\pizza_otomasyonu\202503056\obj\Debug\202503056.exe
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\pizza_otomasyonu\202503056\obj\Debug\202503056.pdb
